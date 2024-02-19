@@ -1,8 +1,18 @@
 ---
+title: "Fabio's Secret Gift"
 output:
     html_document:
       css: defense-in-style.css
 ---
+
+```{css, echo=FALSE}
+
+
+
+.title {
+    display: none;
+}
+```
 
 <!-- Custom Header Start -->
 <div class="header">
@@ -23,24 +33,27 @@ In addition to the main gift, we would like to gift Fabio a “friendship book�
 
 **Steps:**
 
-1. On the landing page, enter your name, email, and pick a language for the questionnaire (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+1. On the landing page, enter your name and email address (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+2. On the same landing page, pick the language inyou prefer to fill out the questionnaire.
+    + You can pick between **three** languages: English, German, and Italian, however **to fill out the questionnaire in Italian, you must pick German**. Questions will be shown in both German and Italian, and you can write in the language you prefer.
     + If you do not see a language picker, try opening the link in private/incognito mode of your browser.
-    + For languages, you can choose between English, German, and Italian. If you pick either German or Italian, you will see the questions in both languages. Fill the questionnaire out in the language you picked.
-2. Answer several questions about Fabio.
-3. Write a short personal message.
-4. Upload a picture of yourself.
+3. Answer several questions about Fabio.
+4. Write a short personal message.
+5. Upload a picture of yourself.
 
 <hr>
 <center>
-***Ready? To access Fabio's friendship book, please click the button below***
+**Ready? To access Fabio's friendship book, please click the button below**
 
 <center><a href="https://mijnvriendenboekje.nl/nw/index.php?r=participant%2Finvitation-link&bookId=64148&token=tLOQA84ZovB0YIg_Z7YUYvH1i3n7-oyE5lnkteJinDWQ" class="button" style="color: white;">Friendship Book</a></center>
 
 <br></br>
 
-***Or scan the QR code***
+**Or scan the QR code**
 
-![](NO_FABIO_QR_code.png)
+![](NO_FABIO_QR_code.jpg)
+
+***❗❗❗️ If you can, please contribute to the gift funds. Click [here](https://fabio-defense.phd/#main_gift) to access information on how to do so ❗❗❗️***
 
 </center>
 
