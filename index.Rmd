@@ -254,7 +254,7 @@ Car Parking Options:
 
 <p class="fancy">dr::Fabio Votta</p>
 
-> *Let's celebrate Fabio's ascension to doctordom!*
+> *Let's celebrate Fabio's ascension to doctoriety!*
 
 ![](photo_2024-02-18_22-30-04.jpg)
 
@@ -401,7 +401,7 @@ The dissertation delves into three key aspects: how widespread the practice is g
 
 A list of media appearances and references in TV, radio and newspapers.
 
-**ZDF Magazin Royale (in German)**
+**`r emo::ji("de")` ZDF Magazin Royale (in German)**
 
   + Political microtargeting during German 2021 election (in colab with Who Targets Me): [YouTube Video](https://www.youtube.com/watch?v=8vq6MzGNZyM)
   + [Data Visualization](https://targetleaks.de/netzwerkdiagramme)
